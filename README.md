@@ -1,5 +1,5 @@
 # Cab Service Data Analysis & Dashboard Project
-![Logo](/Users/admin/Desktop/Project/Images/logo.png)
+![Logo](/Images/logo.png)
 
 ## 1. Overview
 This project presents an in-depth analysis of a cab service company's operational and passenger data. The primary objective is to uncover key business insights, track performance against targets, and provide actionable recommendations through interactive dashboards. The analysis focuses on overall business performance, revenue metrics, and passenger behavior, including customer acquisition and retention.
@@ -37,7 +37,7 @@ Dashboard Visualization: Two interactive dashboards were built in Excel to prese
 ## 4. Data Model
 The data model forms the backbone of this analysis, linking various data tables to allow for comprehensive insights. The model consists of fact tables containing transactional data and dimension tables providing descriptive context.
 
-![Model](/Users/admin/Desktop/Project/Images/Model.png)
+![Model](/Images/Model.png)
 
 Key Tables in the Model:
 
@@ -59,12 +59,12 @@ Two distinct dashboards were created to cater to different analytical needs: a h
 ### 5.1. Summary Dashboard
 This dashboard provides a 360-degree view of the company's overall performance.
 
-![Summary](/Users/admin/Desktop/Project/Images/Summary.png)
+![Summary](/Images/Summary.png)
 
 ### 5.2. Passenger Analysis Dashboard
 This dashboard focuses on customer-centric metrics, specifically analyzing new vs. repeat passenger behavior.
 
-![Passangers](/Users/admin/Desktop/Project/Images/Passangers.png)
+![Passangers](/Images/Passangers.png)
 
 ## 7. Conclusion
 This analysis provides critical insights into the cab service's operations and customer dynamics. The company demonstrates strong performance in revenue and trip volume, particularly in key urban centers. The positive trend in repeat passengers is a healthy sign of customer loyalty.
